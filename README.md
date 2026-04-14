@@ -7,6 +7,7 @@ I am a high-discipline Software Engineer based in the Philippines, specializing 
 
 ## 🚀 Featured Projects & Deliverables
 - **[TCU_CEAA](https://github.com/Syanpole/TCU_CEAA):** Lead Architect for an AI-driven scholarship evaluation system, streamlining grant distribution for thousands of students.
+   - Managed the full documentation and transition of the system from development to stable maintenance, ensuring high availability and database integrity.
 - **[AI-CALL-CENTER-ASSISTANT](https://github.com/Syanpole/SeeYanPol/AI-CALL-CENTER-ASISTANT):** Developing intelligent, real-time support tools using Python and modern AI integration.
 - **Certification:** Currently preparing for the **ISC2 Certified in Cybersecurity (CC)** (Scheduled May 2026).
 
