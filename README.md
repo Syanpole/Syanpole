@@ -27,6 +27,7 @@ I leverage AI-assisted tools to act as a **force multiplier**, accelerating deve
 
 ## 📫 Let's Connect
 - **Email:** syanpole@gmail.com
+- **LiinkedIn:** https://www.linkedin.com/in/sean-paul-feliciano-417716282/
 - **Location:** Taguig City, Philippines (Available for 9am-5pm EST Remote Roles)
 - **Specialty:** Automation, Secure Cloud Infrastructure, AI-Integrated Workflows.
 
