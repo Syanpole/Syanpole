@@ -19,8 +19,13 @@ Keywords: cybersecurity analyst, application security, penetration testing, full
   [![ISC2 CC](https://img.shields.io/badge/ISC2_CC-Candidate-2E7D32?style=for-the-badge)](https://www.isc2.org/Certifications/CC)
   [![Open to Work](https://img.shields.io/badge/Open_to_Work-Remote__EST-4CAF50?style=for-the-badge)](mailto:syanpole@gmail.com)
 
-  > **"Discipline over motivation. Engineering over task-taking."**  
-  > I build secure, intelligent systems where AI accelerates development *without* compromising security, compliance, or maintainability.
+  
+  <sub><sup>✨ "Discipline over motivation. Engineering over task-taking."</sup></sub>
+
+  <!-- GitHub Stats (auto-updating) -->
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Syanpole&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syanpole&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top Languages"/>
 </div>
 
 ---
