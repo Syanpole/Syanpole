@@ -12,7 +12,7 @@ Keywords: cybersecurity analyst, application security, penetration testing, full
   </div>
   
   📍 Taguig City, Philippines | 🌐 Remote (9am–5pm EST overlap)  
-  ✉️ [syanpole@gmail.com](mailto:felicianoseanpaul@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/sean-paul-feliciano-417716282/)
+  ✉️ [felicianoseanpaul@gmail.com](mailto:felicianoseanpaul@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/sean-paul-feliciano-417716282/)
 
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
   [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
@@ -100,7 +100,7 @@ I'm currently:
 - 💡 Exploring collaborations on **AI + security automation**, DevSecOps tooling, or secure cloud migrations  
 
 ### 📩 Reach Out
-- Email: [syanpole@gmail.com](mailto:felicianoseanpaul@gmail.com)  
+- Email: [felicianoseanpaul@gmail.com](mailto:felicianoseanpaul@gmail.com)  
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/sean-paul-feliciano-417716282/)  
 - GitHub: [Explore my repos](https://github.com/Syanpole)  
 
