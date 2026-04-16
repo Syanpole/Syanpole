@@ -5,9 +5,12 @@ Keywords: cybersecurity analyst, application security, penetration testing, full
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/188602786?s=120&v=4" width="120" height="120" style="border-radius: 50%;" alt="Sean Paul Feliciano"/>
   
-  # Sean Paul Feliciano 👋
+  # Sean Paul Feliciano 
   
-  ### 🔐 Cybersecurity Analyst | Full-Stack Engineer | AI Automation Engineer  
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=500&color=4b0082&center=true&vCenter=true&width=600&lines=AI+Automation+Engineer+;Cybersecurity+Analyst;Full-Stack+Engineer" />
+  </div>
+  
   📍 Taguig City, Philippines | 🌐 Remote (9am–5pm EST overlap)  
   ✉️ [syanpole@gmail.com](mailto:syanpole@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/sean-paul-feliciano-417716282/)
 
@@ -26,7 +29,12 @@ Keywords: cybersecurity analyst, application security, penetration testing, full
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Syanpole&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syanpole&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top Languages"/>
+
+  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Syanpole&theme=dark&hide_border=true&currStreakNum=8A2BE2&sideNums=8A2BE2&ring=8A2BE2&fire=8A2BE2"/>
+</p>
 </div>
+
 
 ---
 
