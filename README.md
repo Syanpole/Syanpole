@@ -24,8 +24,11 @@ Keywords: cybersecurity analyst, application security, penetration testing, full
 
   <!-- GitHub Stats (auto-updating) -->
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Syanpole&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syanpole&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top Languages"/>
+  <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Syanpole&theme=tokyonight" width="32%" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Syanpole&theme=tokyonight" width="32%" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Syanpole&theme=tokyonight" width="32%" />
+   </div>
 </div>
 
 ---
