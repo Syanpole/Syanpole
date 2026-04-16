@@ -8,7 +8,7 @@ Keywords: cybersecurity analyst, application security, penetration testing, full
   # Sean Paul Feliciano 
   
   <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=500&color=4b0082&center=true&vCenter=true&width=600&lines=AI+Automation+Engineer+;Cybersecurity+Analyst;Full-Stack+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=500&color=6c0082&center=true&vCenter=true&width=600&lines=AI+Automation+Engineer+;Cybersecurity+Analyst;Full-Stack+Engineer" />
   </div>
   
   📍 Taguig City, Philippines | 🌐 Remote (9am–5pm EST overlap)  
