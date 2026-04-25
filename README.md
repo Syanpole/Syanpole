@@ -107,6 +107,7 @@ I'm currently:
 > 💡 *Prefer a quick chat?* I'm happy to jump on a 15-min intro call—just email me your availability.
 
 ---  
+
 <div align="center">
   <sub>🔐 "Secure the build. Automate the guardrails. Ship with confidence."</sub>
 </div>
