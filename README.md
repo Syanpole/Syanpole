@@ -11,7 +11,7 @@ Keywords: cybersecurity analyst, application security, penetration testing, full
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=500&color=6c0082&center=true&vCenter=true&width=600&lines=AI+Automation+Engineer+;Cybersecurity+Analyst;Full-Stack+Developer" />
   </div>
   
-  📍 Taguig City, Philippines | 🌐 Remote (9am–5pm EST overlap)  
+  📍 Taguig City, Philippines 
   ✉️ [felicianoseanpaul@gmail.com](mailto:felicianoseanpaul@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/sean-paul-feliciano-417716282/)
 
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
